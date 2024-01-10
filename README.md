@@ -1,6 +1,6 @@
 # slr203-akka-lab
 Lab about akka - slr203
-
+```
 6: top priotiry - done
 7: low
 8: very low
@@ -15,5 +15,7 @@ Lab about akka - slr203
 17: very low
 18: medium
 19: top priority - done
-20: top priority
+20: top priority - done
+21: top priority 
 23: the "mini-project" pattern DHT/Kamdelia! be careful, this one is very long and complex ! It is top priority
+```
