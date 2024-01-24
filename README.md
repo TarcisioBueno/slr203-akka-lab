@@ -19,8 +19,34 @@ Lab about akka - slr203
 18: medium
 19: top priority - done
 20: top priority - done
-21: top priority - done
+21: top priority - done - needs to be revised based on 22
+22: top priority - done
 23: the "mini-project" pattern DHT/Kamdelia! be careful, this one is very long and complex ! It is top priority
 ```
 
 Link: https://gitlab.telecom-paris.fr/remi.sharrock/slr203patterns
+
+22:
+
+Run the algorithm by starting with actor A and answer those questions:
+
+how many messages are received by P ?
+3
+
+What is the lowest value "length" received by P ?
+3
+
+Now run the algorithm by starting with actor L and answer those questions:
+
+how many messages are received by P ?
+3
+
+What is the lowest value "length" received by P ?
+4
+
+Now run the algorithm by starting with actor I and answer those questions:
+
+how many messages are received by Q ?
+1
+What is the lowest value "length" received by Q ?
+5
