@@ -1,4 +1,7 @@
 # slr203-akka-lab
+
+mvn compile
+mvn exec:exec
 Lab about akka - slr203
 ```
 6: top priotiry - done
@@ -16,6 +19,8 @@ Lab about akka - slr203
 18: medium
 19: top priority - done
 20: top priority - done
-21: top priority 
+21: top priority - done
 23: the "mini-project" pattern DHT/Kamdelia! be careful, this one is very long and complex ! It is top priority
 ```
+
+Link: https://gitlab.telecom-paris.fr/remi.sharrock/slr203patterns
